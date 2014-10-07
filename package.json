@@ -1,0 +1,22 @@
+{
+  "name": "wjet",
+  "version": "0.0.0",
+  "description": "A recursive resource crawler (a la wget) written in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuartpb/wjet.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/wjet/issues"
+  },
+  "homepage": "https://github.com/stuartpb/wjet"
+}
